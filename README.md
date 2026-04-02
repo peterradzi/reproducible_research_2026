@@ -36,6 +36,8 @@ Plagiarism is not tolerated in any form (including self-plagiarism). You are not
 
 ## Annoucements
 
+DS group 2 - Extra test covering the topic of advanced git branching and merge conflicts - TBA
+
 ## Assignments
 
 Deadline for all the assignments is next day by midnight.
